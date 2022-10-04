@@ -14,4 +14,6 @@ REST API use a GET request to retrieve a record, a POST request to create one, a
 
 - Maven - Build Tool
 
+- Postman - Test REST API
+
 - Eclipse STS
