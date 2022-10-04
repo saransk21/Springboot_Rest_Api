@@ -12,4 +12,6 @@ REST API use a GET request to retrieve a record, a POST request to create one, a
 
 - MySQL
 
+- Maven - Build Tool
+
 - Eclipse STS
